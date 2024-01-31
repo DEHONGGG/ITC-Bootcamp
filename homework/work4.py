@@ -29,10 +29,9 @@ elif a * a < 1000:
 
 a = 10
 
-if a > 10:
+if a > 11:
     print("bolshe 10")
 
 else:
-   print("menshe 10")
 
 
